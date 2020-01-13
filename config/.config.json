@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "weapp": "",
+    "alipay":"",
+    "h5": "",
+    "swan": "",
+    "host": "",
+    "magicHost": "",
+    "renderHost": ""
+  },
+  "test": {
+    "weapp": "",
+    "alipay":"",
+    "h5": "",
+    "swan": "",
+    "host": "",
+    "magicHost": "",
+    "renderHost": ""
+  },
+  "online": {
+    "weapp": "",
+    "alipay":"",
+    "h5": "",
+    "swan": "",
+    "host":  "" ,
+    "magicHost": "",
+    "renderHost":""
+  }
+}
